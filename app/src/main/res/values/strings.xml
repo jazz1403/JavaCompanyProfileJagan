@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Company Profile</string>
+    <string name="title_name">Tidy Life India Private Limited</string>
+
+    <string name="phone_no">+ 91 8610338291</string>
+    <string name="email">tidyindia@gmail.com</string>
+    <string name="maile">http://tidylifeindia.com/</string>
+    <string name="adress">No.A3,Mahalakshmi Flats,\nSivagami Street,\nNew Perungalathur,\nChennai-600 062.\nTamil Nadu,India.</string>
+</resources>
